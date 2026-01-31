@@ -3,9 +3,7 @@
 <h1 align="center">Hey 👋 I'm Barath</h1>
 <h3 align="center">Student Developer • Building Cool Things</h3>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:007ea7&height=3"/>
-</p>
+---
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=600&lines=Python+Developer;Flutter+App+Builder;Web+Tech+Enthusiast;Always+Learning+New+Things" />
@@ -26,7 +24,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="48"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="48"/>
 </p>
-
 
 ---
 
