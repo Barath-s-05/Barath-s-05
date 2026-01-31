@@ -50,12 +50,4 @@
 
 ---
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Barath-s-05/Barath-s-05/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=120&section=footer"/>
