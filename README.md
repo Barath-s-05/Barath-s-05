@@ -28,7 +28,6 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Barath-s-05&show_icons=true&theme=tokyonight" />
   <img src="https://streak-stats.demolab.com?user=Barath-s-05&theme=tokyonight" />
 </p>
 
