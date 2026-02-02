@@ -1,6 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=160&section=header"/>
 
 <h1 align="center">Hey 👋 I'm Barath</h1>
+<h2 align="center">Wanna know more? Visit https://barath-s.vercel.app/ </h2>
 <h3 align="center">Student Developer • Building Cool Things</h3>
 
 ---
