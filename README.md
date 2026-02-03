@@ -29,11 +29,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="48"/>
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Barath-s-05&theme=tokyonight" />
-</p>
-
-
 ---
 
 <p align="center">
