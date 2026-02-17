@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=160&section=header"/>
 
-<h1 align="center">Hey 👋 I'm Barath</h1>
+<h1 align="center">Hey!! I'm Barath</h1>
 <h3 align="center">Student Developer • Building Cool Things</h3>
 
 <p align="center">
@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="https://barath-s.vercel.app/" target="_blank">
-    <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e3c72,100:2a5298&height=60&section=header&text=🌐%20Visit%20My%20Portfolio&fontSize=22&fontColor=ffffff"/>
+    <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e3c72,100:2a5298&height=60&section=header&text=%20Visit%20My%20Portfolio&fontSize=22&fontColor=ffffff"/>
   </a>
 </p>
 
